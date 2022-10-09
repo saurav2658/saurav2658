@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saurav Kumar</h1>
-<h3 align="center">I'm a 3rd-year student in the Department of Computer Engineering at Thapar Institute of Engineering and Technology, Patiala. I've a strong and growing interest in the field of computer sciences ranging from programming algorithms to app development. The passion to excel and evolve has always hosted a hungry and foolish soul in me and thus, I'm always eager and enthusiastic for an opportunity that introduces me to real-life application of the skills I've learned in my initial year of graduation.</h3>
+<h3 align="center">I'm a final year student in the Department of Computer Engineering at Thapar Institute of Engineering and Technology, Patiala. I've a strong and growing interest in the field of computer sciences ranging from programming algorithms to app development. The passion to excel and evolve has always hosted a hungry and foolish soul in me and thus, I'm always eager and enthusiastic for an opportunity that introduces me to real-life application of the skills I've learned in my initial year of graduation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurav2658&label=Profile%20views&color=0e75b6&style=flat" alt="saurav2658" /> </p>
 
