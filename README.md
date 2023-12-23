@@ -1,4 +1,4 @@
-<h1 align="center">Hey There, I'm Saurav Kumar</h1>
+<h1 align="center">Hey, It's Saurav</h1>
 <h3 align="center"> Presently engaged in the pursuit of a master's degree at NIT Jalandhar, having concluded my undergraduate studies at Thapar University. My area of expertise and passion is software development, underscored by my hands-on experience as a software intern at Samsung SDS, where I invested six months refining my skills. I am ardently committed to continuous learning and aspire to contribute meaningfully to the ever-evolving landscape of technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurav2658&label=Profile%20views&color=0e75b6&style=flat" alt="saurav2658" /> </p>
