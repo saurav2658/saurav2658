@@ -10,7 +10,7 @@ I work close to the hardware and build reliable software across systems, web, an
   <a href="https://saurav2658.github.io/saurav/">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/saurav-kumar-638b28197/">
+  <a href="https://www.linkedin.com/in/saurav2658/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/saurav2658/">
@@ -46,4 +46,4 @@ I'm a Silicon Firmware Developer at **Intel**, working at the boundary of hardwa
 
 ## Connect
 
-The best place to reach me is [LinkedIn](https://www.linkedin.com/in/saurav-kumar-638b28197/). You can also find my coding practice on [LeetCode](https://leetcode.com/saurav2658/) and [HackerRank](https://www.hackerrank.com/saurav2658).
+The best place to reach me is [LinkedIn](https://www.linkedin.com/in/saurav2658/). You can also find my coding practice on [LeetCode](https://leetcode.com/saurav2658/) and [HackerRank](https://www.hackerrank.com/saurav2658).
