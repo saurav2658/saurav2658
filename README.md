@@ -29,15 +29,6 @@ I'm a Silicon Firmware Developer at **Intel**, working at the boundary of hardwa
 - Academic background at **NIT Jalandhar** and **Thapar Institute of Engineering and Technology**
 - Interested in firmware, systems, full-stack development, computer vision, and problem solving
 
-## Selected work
-
-| Project | Focus | Stack |
-| --- | --- | --- |
-| [CANCO](https://github.com/saurav2658/CANCO) | Cross-platform mobile application | Flutter, Dart |
-| [Object Detection using YOLOv5](https://github.com/saurav2658/Object-Detection-Using-YoloV5) | Applied computer vision | Python, YOLOv5 |
-| [Laundry Management System](https://github.com/saurav2658/Laundry-Management-System) | Web-based management workflow | JavaScript |
-| [Sliding Window](https://github.com/saurav2658/Sliding-Window) | Data structures and algorithms practice | C++ |
-
 ## Toolbox
 
 <p>
