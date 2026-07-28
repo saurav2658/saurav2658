@@ -1,28 +1,57 @@
-<h1 align="center">Hey, It's Saurav</h1>
-<h3 align="center"> Presently engaged in the pursuit of a master's degree at NIT Jalandhar, having concluded my undergraduate studies at Thapar University. My area of expertise and passion is software development, underscored by my hands-on experience as a software intern at Samsung SDS, where I invested six months refining my skills. I am ardently committed to continuous learning and aspire to contribute meaningfully to the ever-evolving landscape of technology.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saurav2658&label=Profile%20views&color=0e75b6&style=flat" alt="saurav2658" /> </p>
+# Saurav Kumar
 
-<!--
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurav2658" alt="saurav2658" /></a> </p>
--->
+### Software Developer · Product Builder
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sauravkumar2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sauravkumar2002" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/saurav-kumar-638b28197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurav-kumar-638b28197" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/saurav2658" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="saurav2658" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/saurav2658" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saurav2658" height="30" width="40" /></a>
+I build thoughtful, reliable products across web, mobile, and systems.
+
+<p>
+  <a href="https://saurav2658.github.io/saurav/">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/saurav-kumar-638b28197/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/saurav2658/">
+    <img src="https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  <!-- </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> --> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <!--</a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>--> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> <!-- </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> --> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <!--</a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> --> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/><!--</a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
--->
+</div>
 
-<!--
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurav2658&show_icons=true&locale=en&layout=compact" alt="saurav2658" /></p>
--->
+## About
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=saurav2658&show_icons=true&locale=en" alt="saurav2658" /></p>
+I'm a software developer focused on turning ideas into fast, useful, and well-crafted products. My recent work centers on product engineering with **React, Next.js, and TypeScript**, backed by experience across **C++, Python, Flutter, SQL, and Linux**.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurav2658&" alt="saurav2658" /></p>
+- Previously completed a six-month software development internship at **Samsung SDS**
+- Academic background at **NIT Jalandhar** and **Thapar Institute of Engineering and Technology**
+- Interested in full-stack development, systems, computer vision, and problem solving
+
+## Selected work
+
+| Project | Focus | Stack |
+| --- | --- | --- |
+| [CANCO](https://github.com/saurav2658/CANCO) | Cross-platform mobile application | Flutter, Dart |
+| [Object Detection using YOLOv5](https://github.com/saurav2658/Object-Detection-Using-YoloV5) | Applied computer vision | Python, YOLOv5 |
+| [Laundry Management System](https://github.com/saurav2658/Laundry-Management-System) | Web-based management workflow | JavaScript |
+| [Sliding Window](https://github.com/saurav2658/Sliding-Window) | Data structures and algorithms practice | C++ |
+
+## Toolbox
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111827" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
+
+## Connect
+
+The best place to reach me is [LinkedIn](https://www.linkedin.com/in/saurav-kumar-638b28197/). You can also find my coding practice on [LeetCode](https://leetcode.com/saurav2658/) and [HackerRank](https://www.hackerrank.com/saurav2658).
