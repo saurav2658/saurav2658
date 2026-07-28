@@ -2,9 +2,9 @@
 
 # Saurav Kumar
 
-### Software Developer · Product Builder
+### Silicon Firmware Developer @ Intel
 
-I build thoughtful, reliable products across web, mobile, and systems.
+I work close to the hardware and build reliable software across systems, web, and mobile.
 
 <p>
   <a href="https://saurav2658.github.io/saurav/">
@@ -22,11 +22,12 @@ I build thoughtful, reliable products across web, mobile, and systems.
 
 ## About
 
-I'm a software developer focused on turning ideas into fast, useful, and well-crafted products. My recent work centers on product engineering with **React, Next.js, and TypeScript**, backed by experience across **C++, Python, Flutter, SQL, and Linux**.
+I'm a Silicon Firmware Developer at **Intel**, working at the boundary of hardware and software. Beyond firmware, I enjoy turning ideas into useful, well-crafted products with **React, Next.js, and TypeScript**, backed by experience across **C++, Python, Flutter, SQL, and Linux**.
 
+- Currently building silicon firmware at **Intel**
 - Previously completed a six-month software development internship at **Samsung SDS**
 - Academic background at **NIT Jalandhar** and **Thapar Institute of Engineering and Technology**
-- Interested in full-stack development, systems, computer vision, and problem solving
+- Interested in firmware, systems, full-stack development, computer vision, and problem solving
 
 ## Selected work
 
